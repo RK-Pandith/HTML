@@ -1,2 +1,2 @@
 # HTML
-Snipets of HTML for my improvements
+Snipets of HTML for my improvements.
